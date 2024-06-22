@@ -1,9 +1,17 @@
 baseURL: "https://chrisrouse1415.github.io/chrisrouse1415"
 languageCode: en-us
-title: My New Hugo Site
+title: Chris Rouse
 theme: ["PaperMod"]
 
 params:
+  homeInfoParams:
+    Title: Hi
+    Content: I'm Chris, welcome to my website
+
+  socialIcons:
+    - name: "x"
+      url: "https://x.com/Chrisrouse1415"
+
   defaultTheme: auto
   ShowReadingTime: true
   ShowShareButtons: true
