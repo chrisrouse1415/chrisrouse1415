@@ -6,7 +6,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: Hi
-    Content: I'm Chris, welcome to my website
+    Content: I'm Chris, I'm interested in Tech, Health and Fitness, Effective Altruism among other things. In the week I'm an Infrastructure Engineer in Telecoms (the code kind, sadly I don't get to climb the pylons) and this is a place for me to write.
 
   socialIcons:
     - name: "x"
