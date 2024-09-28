@@ -1,7 +1,7 @@
 
 <h1>Tutoring Online 1: Why</h1>
 
-*I plan to write future posts explaining the tools and approaches I use along with things I've learnt.*
+<p>*I plan to write future posts explaining the tools and approaches I use along with things I've learnt.*</p>
 
 <p>I’ve been tutoring online since my first year of University in 2018 and since then I have delivered over 1000 hours of lessons in Maths or Physics for 11-18 year olds. I have probably spent that much again thinking about it and here are some thoughts, starting with why I did it and would recommend it.</p>
 
