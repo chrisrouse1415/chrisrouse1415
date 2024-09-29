@@ -7,23 +7,25 @@ params:
   homeInfoParams:
     Title: Hi
     Content: |
-      I'm Chris, I'm interested in Tech, Health and Fitness, Effective Altruism among other things and this is a place for me to write stuff.  
+      I'm interested in Tech, Health and Fitness and Effective Altruism among other things and this is a place for me to write stuff.  
          
-             
+         
       In the week I'm an Infrastructure Engineer in Telecoms living in London (the code kind, sadly I don't get to climb the pylons). I also co-organise the **[London Giving What We Can group](https://www.givingwhatwecan.org/london)** and we run events and socials themed around giving money to charity effectively, if you're interested please come along! 
 
   socialIcons:
     - name: "x"
       url: "https://x.com/Chrisrouse1415"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/christopher-rouse-085840170/"
 
   defaultTheme: auto
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false 
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
-  ShowToc: true
+  ShowToc: false
 
 menu:
   main:
