@@ -7,11 +7,10 @@ params:
   homeInfoParams:
     Title: Hi
     Content: |
-      I'm interested in Tech, Health and Fitness and Effective Altruism among other things and this is a place for me to write stuff.  
-         
-         
-      In the week I'm an Infrastructure Engineer in Telecoms living in London (the code kind, sadly I don't get to climb the pylons). I also co-organise the **[London Giving What We Can group](https://www.givingwhatwecan.org/london)** and we run events and socials themed around giving money to charity effectively, if you're interested please come along! 
-
+      I'm interested in Tech, Health and Fitness and Effective Altruism among other things. I'm a Systems Engineer living in London. I also co-organise the **[<u>London Giving What We Can Group</u>](https://www.givingwhatwecan.org/london)** where we run events to do with effective giving, if you're interested please come along! 
+      
+      -
+      This is site is mostly for me to write about things I'm interested in, you can find me on Twitter/Linkedin at the links below.
   socialIcons:
     - name: "x"
       url: "https://x.com/Chrisrouse1415"

@@ -4,24 +4,34 @@ date: 2024-09-29
 summary: "Why I've spent (at least) 1000 hours of my life tutoring"
 ---
 
-*I plan to write future posts explaining the tools and approaches I use along with things I've learnt.*
+*Future posts will focus on practival recommendations*
 
-I’ve been tutoring online since my first year of University in 2018 and after ~1000 hours of lessons I can highly recommend it. I have probably as much time again thinking about it and here are some thoughts
+I’ve been tutoring online since my first year of University in 2018 and after ~1000 hours of (mostly maths) lessons I can highly recommend it. I have probably as much time again thinking about it, but before getting to how it's worth explaining why.
 
-I have a Bachelor's in Physics and I've tutored mostly Maths to students studying for their GCSEs. Obviously how feasible this is depends on the skills you have to teach. It's worth noting that my experience is biased by this being a high-demand subject and a relatively easy one to teach online.
+### The boring answers
+Compared to most casual work open to young people tutoring offers:
 
-### Why Tutor?
-
-The boring answer is of course money. But then why not work in a bar or supermarket? Tutoring has a few things going for it, including but not limited to:
 1. **Extreme flexibility**
 
-     A reason to tutor online in particular, maximum flexibility, easy rescheduling, no time spent commuting, it's almost too good to be true.
+     Online tutoring in particular offers easy (re)scheduling with no time spent commuting, it's almost too good to be true.
 2. **Higher pay**
 
     I started earning £10ph in 2018 and this increased steadily over time to a peak of £40ph, the ceiling is of course far higher than that.
-3. **White collar work experience**
+3. **CV Content**
 
-    Most casual work is of little value to white collar employers but I continue to include tutoring on my CV as I feel I can tell a very clear story about how the skills I've developed are of value in an office.
-4. **Fun / Fulfillment**
+    I find it easy to tell a story about how tutoring makes me a better employee
 
-     Building relationships and watching a student progress can be highly rewarding. The flipside is difficult students can be unpleasant to teach, but once you have some experience it's easy to be selective.
+These are great for the starving university student, but don't quite explain why I still take on students 6 years later with a full-time job. 
+
+### The real answers
+**Explaining things well is a really useful skill to practise**
+In 3 years of working it's become obvious to me that explaining things is quite hard and people differ wildly in how good they are at it. It can be extremely frustrating (and ultimately costly) to be on the receiving end of bad explanation. A good explanation on the other hand is seamless, you simply go from not-understanding to understanding without paying much attention at all. 
+
+Skill at explaining is hard to define and harder to measure but there's no doubt it can be improved and tutoring is a great venue for deliberate practice. I have no proof but I'm confident 1000 hours of practise has trained me to do this better and this skill propagates into every area of my life. 
+
+**Building a working relationship can be fun and very rewarding**
+ Building relationships and watching a student progress can be highly rewarding. The flipside of course is that difficult students can be unpleasant to teach but conveniently who you teach is (usually) up to you. 
+
+
+
+*Disclaimer: I have a Bachelor’s in Physics and I’ve tutored mostly Maths to students studying for their GCSEs. Obviously your experience will depend on the skills you have to teach. It’s worth noting that my experience is biased by this being a high-demand subject and a relatively easy one to teach online.*
