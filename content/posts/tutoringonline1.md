@@ -4,9 +4,9 @@ date: 2024-09-29
 summary: "Why I've spent (at least) 1000 hours of my life tutoring"
 ---
 
-*Future posts will focus on practival recommendations*
+*Practical recommendations to come in future posts*
 
-I’ve been tutoring online since my first year of University in 2018 and after ~1000 hours of (mostly maths) lessons I can highly recommend it. I have probably as much time again thinking about it, but before getting to how it's worth explaining why.
+I’ve been tutoring online since my first year of University in 2018 and after ~1000 hours of (mostly maths) lessons I can highly recommend it. I have probably as much time again thinking about it and this is some of what I've learnt.
 
 ### The boring answers
 Compared to most casual work open to young people tutoring offers:

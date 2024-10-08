@@ -1,13 +1,13 @@
 baseURL: "https://chrisrouse1415.github.io/chrisrouse1415"
 languageCode: en-us
-title: Chris Rouse
+
 theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: Hi
+    Title: Chris Rouse
     Content: |
-      I'm interested in Tech, Health and Fitness and Effective Altruism among other things. I'm a Systems Engineer living in London. I also co-organise the **[<u>London Giving What We Can Group</u>](https://www.givingwhatwecan.org/london)** where we run events to do with effective giving, if you're interested please come along! 
+      I'm a Systems Engineer interested in Tech, Health and Fitness and Effective Altruism among other things. I live in London and co-organise the **[<u>London Giving What We Can Group</u>](https://www.givingwhatwecan.org/london)** where we run events to do with effective giving, if you're interested please come along! 
       
       -
       This is site is mostly for me to write about things I'm interested in, you can find me on Twitter/Linkedin at the links below.
@@ -18,7 +18,7 @@ params:
       url: "https://www.linkedin.com/in/christopher-rouse-085840170/"
 
   defaultTheme: auto
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false 
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -28,8 +28,8 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
+    - identifier: about
+      name: About
       url: /categories/
       weight: 10
     - identifier: tags
