@@ -25,12 +25,13 @@ params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowToc: false
+  ShowBurgerMenu: true
 
 menu:
   main:
     - identifier: about
       name: About
-      url: /categories/
+      url: /About/
       weight: 10
     - identifier: tags
       name: Tags
